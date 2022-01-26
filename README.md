@@ -1,2 +1,2 @@
 # Spark_Twitter_Data_Stream
-Streaming twitter Data with Apache Spark/Pyspark
+Streaming Twitter Data with Apache Spark/Pyspark
